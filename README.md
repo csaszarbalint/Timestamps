@@ -62,3 +62,6 @@ A, B, C, D -> E, F
 ## 16:00 tranzitivitás
 
 ## 17:00 tobbertekuseg
+
+## 17:30 normalizalas
+18:25 1NF; 
