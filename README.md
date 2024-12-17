@@ -64,7 +64,6 @@ A, B, C, D -> E, F
 ## 17:00 tobbertekuseg
 
 ## 17:30 normalizalas
-
 18:25 1NF;
 19:30 1NF (still);
 20:00 2NF;
@@ -72,7 +71,6 @@ A, B, C, D -> E, F
 28:00 4NF Boyce-*, 4NF; 
 
 ## 29:30 tobberteku fuggoseg
-
 #tabla
 a1 a1 a2 b1 b2 c1 c2
 a1 a1 a2 b1 b2 c3 c1
