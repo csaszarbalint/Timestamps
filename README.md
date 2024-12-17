@@ -81,3 +81,5 @@ a1 a1 a2 b2 b1 c2 c2
 a1 a1 a2 b1 b2 c1 c2
 a1 a1 a2 b1 b2 c3 c1
 a1 a1 a2 b1 b2 c2 c2
+
+## I give up 😔 https://soundcloud.com/0-1-85697751/amour-plastique
