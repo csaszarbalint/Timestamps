@@ -5,16 +5,16 @@ and +- 15sec
 
 ## 2:40 - basic funkcionalis fuggosegek
 ## 4:00 - trivialis funkcionalis fuggoseg:
-[TABLA]
+#tabla
 A, B, C, D
 B, C
 
 B,C < A, B, C, D
 A, B, C, D -> B, C
-[END]
+#end
 
 ## 6:00 - nem trivialis
-[TABLA]
+#tabla
 A, B, C, D
 B, C, E
 
@@ -24,10 +24,10 @@ A, B, C, D -> B, C
 
 Nem triviális
 A, B, C, D -> B, C, E
-[END]
+#end
 
 ## 8:00 - teljesen nem trivialis
-[TABLA]
+#tabla
 A, B, C, D
 B, C, E
 
@@ -40,10 +40,10 @@ A, B, C, D -> B, C, E
 
 Teljesen nem trivialis
 A, B, C, D -> F, E
-[END]
+#end
 
 ## 9:00 - részlege, teljes fuggoesg
-[TABLA]
+#tabla
 reszleges:
 A, B, C, D -> E, F
 B, C -> E, F
@@ -51,10 +51,14 @@ B, C -> E, F
 teljes:
 A, B, C, D -> E, F
 
-[END]
+#end
 
 ## 13:00 moodle nezegetese, peldak megbeszelese
 
 ## 13:50 szetbonthatosag
 
-##
+## 15:30 szetvagahtosag, osszevonhatosag...
+
+## 16:00 tranzitivitás
+
+## 17:00 tobbertekuseg
