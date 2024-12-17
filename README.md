@@ -78,9 +78,6 @@ a1 a1 a2 b2 b1 c2 c2
 #end
 
 ## 34:30 back to 4NF
-
-#tabla
 a1 a1 a2 b1 b2 c1 c2
 a1 a1 a2 b1 b2 c3 c1
 a1 a1 a2 b1 b2 c2 c2
-#end
