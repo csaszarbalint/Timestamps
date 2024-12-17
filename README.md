@@ -42,7 +42,7 @@ Teljesen nem trivialis
 A, B, C, D -> F, E
 #end
 
-## 9:00 - részlege, teljes fuggoesg
+## 9:00 - részleges, teljes fuggoesg
 #tabla
 reszleges:
 A, B, C, D -> E, F
@@ -64,4 +64,11 @@ A, B, C, D -> E, F
 ## 17:00 tobbertekuseg
 
 ## 17:30 normalizalas
-18:25 1NF; 
+
+18:25 1NF;
+19:30 1NF (still);
+20:00 2NF;
+24:20 3NF, szuperkulcs;
+28:00 4NF Boyce-*, 4NF; 
+
+## 29:30 tobberteku fuggoseg
